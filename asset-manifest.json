@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Takaful1/static/css/main.d6dd4c22.css",
-    "main.js": "/Takaful1/static/js/main.e621972c.js",
+    "main.css": "/Takaful1/static/css/main.6561fd14.css",
+    "main.js": "/Takaful1/static/js/main.0806a800.js",
     "static/media/K10.jpg": "/Takaful1/static/media/K10.8c1b777f0de1e7a1ca9b.jpg",
     "static/media/K1.jpg": "/Takaful1/static/media/K1.368d2e55f9990ab57eff.jpg",
     "static/media/img11.jpg": "/Takaful1/static/media/img11.3cf9018af02837503a33.jpg",
@@ -17,14 +17,12 @@
     "static/media/K8.jpg": "/Takaful1/static/media/K8.36f44300725391dfef90.jpg",
     "static/media/k17.jpg": "/Takaful1/static/media/k17.0ea3bd5f539b5fa76aaf.jpg",
     "static/media/K9.jpg": "/Takaful1/static/media/K9.c02089d19dfb2c8e05bf.jpg",
-    "static/media/img111.jpg": "/Takaful1/static/media/img111.4206ca2aa19a022b5c73.jpg",
     "static/media/imgs2.jpg": "/Takaful1/static/media/imgs2.4481be83feb04a85cf7c.jpg",
     "static/media/img3.jpg": "/Takaful1/static/media/img3.fe907ae836a6549dfb5c.jpg",
-    "static/media/img222.jpg": "/Takaful1/static/media/img222.3cee5ebdaebe19f161db.jpg",
     "static/media/K4.jpg": "/Takaful1/static/media/K4.3051f2ac29e36723899b.jpg",
     "static/media/imgs3.jpg": "/Takaful1/static/media/imgs3.210ab4406d1bcf37fa0d.jpg",
-    "static/media/img333.jpg": "/Takaful1/static/media/img333.b3bfcb7c0512bec6bfde.jpg",
     "static/media/imgs1.jpg": "/Takaful1/static/media/imgs1.5eab26816731b8888107.jpg",
+    "static/media/loayloay.jpeg": "/Takaful1/static/media/loayloay.59e7f123e6b4e8c25052.jpeg",
     "static/media/K11.jpg": "/Takaful1/static/media/K11.1581c8bf4e715bc2e821.jpg",
     "static/media/K7.jpg": "/Takaful1/static/media/K7.f2ba0736c57199a7f2a7.jpg",
     "static/media/TTTTT.jpg": "/Takaful1/static/media/TTTTT.797632a536067333ae94.jpg",
@@ -33,11 +31,11 @@
     "static/media/logo7.jpg": "/Takaful1/static/media/logo7.0ab4f3f7992a8cd48a14.jpg",
     "static/media/k16.jpg": "/Takaful1/static/media/k16.58ce653c494877caf5a7.jpg",
     "index.html": "/Takaful1/index.html",
-    "main.d6dd4c22.css.map": "/Takaful1/static/css/main.d6dd4c22.css.map",
-    "main.e621972c.js.map": "/Takaful1/static/js/main.e621972c.js.map"
+    "main.6561fd14.css.map": "/Takaful1/static/css/main.6561fd14.css.map",
+    "main.0806a800.js.map": "/Takaful1/static/js/main.0806a800.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6dd4c22.css",
-    "static/js/main.e621972c.js"
+    "static/css/main.6561fd14.css",
+    "static/js/main.0806a800.js"
   ]
 }
