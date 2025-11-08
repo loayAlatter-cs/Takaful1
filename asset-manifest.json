@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Takaful1/static/css/main.6561fd14.css",
-    "main.js": "/Takaful1/static/js/main.0806a800.js",
+    "main.css": "/Takaful1/static/css/main.49cb10e5.css",
+    "main.js": "/Takaful1/static/js/main.1a1e95d3.js",
     "static/media/K10.jpg": "/Takaful1/static/media/K10.8c1b777f0de1e7a1ca9b.jpg",
     "static/media/K1.jpg": "/Takaful1/static/media/K1.368d2e55f9990ab57eff.jpg",
     "static/media/img11.jpg": "/Takaful1/static/media/img11.3cf9018af02837503a33.jpg",
@@ -31,11 +31,11 @@
     "static/media/logo7.jpg": "/Takaful1/static/media/logo7.0ab4f3f7992a8cd48a14.jpg",
     "static/media/k16.jpg": "/Takaful1/static/media/k16.58ce653c494877caf5a7.jpg",
     "index.html": "/Takaful1/index.html",
-    "main.6561fd14.css.map": "/Takaful1/static/css/main.6561fd14.css.map",
-    "main.0806a800.js.map": "/Takaful1/static/js/main.0806a800.js.map"
+    "main.49cb10e5.css.map": "/Takaful1/static/css/main.49cb10e5.css.map",
+    "main.1a1e95d3.js.map": "/Takaful1/static/js/main.1a1e95d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.6561fd14.css",
-    "static/js/main.0806a800.js"
+    "static/css/main.49cb10e5.css",
+    "static/js/main.1a1e95d3.js"
   ]
 }
